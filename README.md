@@ -75,4 +75,3 @@ Os testes usam SQLite em memória e cobrem listagem, busca, 404, filtros, cadast
 - Para produção, configure ambiente e controles de acesso adequados ao uso.
 
 Licença MIT. A base [Laravel](https://laravel.com) e a referência DIO mantêm seus respectivos créditos.
-
